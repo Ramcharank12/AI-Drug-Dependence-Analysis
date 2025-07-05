@@ -60,5 +60,4 @@ Feel free to open issues or pull requests to improve this project.
 
 📞 Contact
 
-If you have questions, contact:
-	•	Charan — GitHub Profile
+If you have questions, contact me https://github.com/Ramcharank12
